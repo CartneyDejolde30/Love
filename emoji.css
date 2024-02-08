@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background:tomato;
+}
+.emoji{
+    background:tomato;
+    width: 540px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    font-style: oblique;
+    margin-top: 20px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+   
+}
+button:hover{
+    background: red;
+    color: white;
+}
+button:hover{
+    background: red;
+    color: white;
+}
